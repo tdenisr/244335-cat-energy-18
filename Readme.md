@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Денис Тухватуллин](https://up.htmlacademy.ru/adaptive/18/user/244335).
-* Наставник: `Неизвестно`.
+* Наставник: Кексобот.
 
 ---
 
